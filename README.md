@@ -12,7 +12,11 @@
 Готовий вчитися, розвиватися та вдосконалювати свої навички.
 
 - 📫 Як зі мною зв'язатись:
-[![LinkedIn Badge](https://www.linkedin.com/in/russunazar/)
-[![Gmail Badge](nazarrussu21@gmail.com)
+https://www.linkedin.com/in/russunazar/
+nazarrussu21@gmail.com
 Telegram - russunazar
+
+Частину моїх робіт можна побачити в інших репозиторіях!)
+
+
 
