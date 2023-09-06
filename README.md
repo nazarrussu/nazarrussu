@@ -12,8 +12,8 @@
 Готовий вчитися, розвиватися та вдосконалювати свої навички.
 
 - 📫 Як зі мною зв'язатись:
-https://www.linkedin.com/in/russunazar/
-nazarrussu21@gmail.com
+LinkedIn - https://www.linkedin.com/in/russunazar/
+Gmail - nazarrussu21@gmail.com
 Telegram - russunazar
 
 Частину моїх робіт можна побачити в інших репозиторіях!)
